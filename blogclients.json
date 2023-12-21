@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "autor": "MARTA I CARLOS",
+        "titulo": "UN DIA MÀGIC",
+        "srcimg": "https://images.pexels.com/photos/19455527/pexels-photo-19455527/free-photo-of-blanc-i-negre-home-parella-dona.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "alt": "Imatge1",
+        "texto": "Les nostres noces va ser més enllà de les expectatives gràcies a l'equip de M.M Events. Cada detall, des de la decoració fins a la música, es va fusionar per a crear un dia màgic que sempre recordarem amb amor i alegria."     
+    },
+    {
+        "id": 2,
+        "autor": "ADRIANA I JAVIER",
+        "titulo": "EL COMENÇAMENT D'UN VIATGE",
+        "srcimg": "https://images.pexels.com/photos/12088591/pexels-photo-12088591.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "alt": "Imatg2",
+        "texto": "La planificació de les nostres noces va ser un viatge emocionant. Des de l'elecció del lloc fins a la música, cada pas va ser guiat amb amor i professionalisme, creant records que duraran tota la vida."
+    },
+    {
+        "id": 3,
+        "autor": "ELENA I PAULA",
+        "titulo": "NOTES DE FELICITAT",
+        "srcimg": "https://images.pexels.com/photos/14348886/pexels-photo-14348886.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "alt": "Imatge3",
+        "texto": "La música va fer que el nostre dia fos inoblidable. L'elecció encertada de Melodia Màgica va crear una atmosfera plena d'alegria i emoció. Cada nota ressonarà en els nostres cors per sempre."
+
+    },
+    {
+        "id": 4,
+        "autor": "PAULA I SERGIO",
+        "titulo": "DETALLS QUE MARQUEN LA DIFERÈNCIA",
+        "srcimg": "https://images.pexels.com/photos/6609847/pexels-photo-6609847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "alt": "Imatge4",
+        "texto": "L'atenció als detalls va fer que les nostres noces fora úniques. Des de les invitacions fins a la decoració, cada element va ser acuradament seleccionat, reflectint la nostra història i creant una experiència autèntica."
+    },
+    {
+        "id": 5,
+        "autor": "ISABEL I MANUEL",
+        "titulo": "MOMENTS INOBLIDABLES CAPTURATS",
+        "srcimg": "https://images.pexels.com/photos/15230682/pexels-photo-15230682/free-photo-of-blanc-i-negre-parella-amor-gent.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "alt": "Imatge1",
+        "texto": "La captura de cada moment per part de Carmen Alarcón va fer que les nostres noces cobrés vida. Les seves fotografies i vídeos són tresors que ens permetran reviure aquests moments especials una vegada i una altra."
+
+    },
+    {
+        "id": 6,
+        "autor": "JOAN I LLUÍS",
+        "titulo": "UN ESCENARI ENCANTAT",
+        "srcimg": "https://i.pinimg.com/564x/66/2a/f9/662af9436968db758c298a809a397421.jpg",
+        "alt": "Imatge1",
+        "texto": "L'elecció de la localització perfecta va convertir les nostres noces en un conte de fades. La Vila dels Somnis va proporcionar l'escenari ideal per a celebrar el nostre amor, amb jardins pintorescos i atenció excepcional."
+    },
+    {
+        "id": 7,
+        "autor": "LAURA I DIEGO",
+        "titulo": "AVENTURES INOBLIDABLES",
+        "srcimg": "https://images.pexels.com/photos/9396333/pexels-photo-9396333.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "alt": "Imatge1",
+        "texto": "El comiat de solter organitzada per Aventures Nocturnes va ser una celebració plena de riures i records inoblidables. Cada moment va ser únic, marcant el començament de la nostra nova vida junts."
+
+    },
+    {
+        "id": 8,
+        "autor": "PATRICIA I DIEGO",
+        "titulo": "MÀGIA EN LA DECORACIÓ",
+        "srcimg": "https://images.pexels.com/photos/13153715/pexels-photo-13153715.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "alt": "Imatge1",
+        "texto": "Laura Rodríguez va transformar el nostre espai en un lloc màgic. La decoració era simplement bella, creant una atmosfera que reflectia la nostra història i personalitat d'una manera única."
+    },
+    {
+        "id": 9,
+        "autor": "ANNA I LAIA",
+        "titulo": "EXPLOSIÓ FLORAL",
+        "srcimg": "https://images.pexels.com/photos/5978173/pexels-photo-5978173.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "alt": "Imatge1",
+        "texto": "Flors de Somni va crear un espectacle de colors i fragàncies que van captivar a tots. Cada arranjament floral era una obra mestra, des de les flors de l'altar fins als petits detalls. Les nostres noces va ser un veritable festí per als sentits."
+    }
+]
